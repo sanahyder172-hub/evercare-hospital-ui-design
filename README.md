@@ -28,3 +28,7 @@ UI/UX Design Project
 ## Status
 
 Completed Figma Design
+
+## Figma Design
+
+[View the Figma Design](https://www.figma.com/design/nFWRcSzs8xggJW6nDrZNdb/EverCare-Hospital-UI?node-id=0-1&t=9vSvpY9y6nWG0RyF-1)
